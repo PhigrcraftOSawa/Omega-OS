@@ -24,6 +24,11 @@ ToMart OS遵循GPL 3.0开源协议，这意味着
 
 * 你可以随意复制，使用，修改，分发ToMart OS
 * 修改ToMart OS后，如要重新分发，请必须使用GPL 3.0协议开源并标注修改内容
+## 我们的计划
+* 支持TechFure Application Script
+* 开发ToMart OS App Code
+* 统一UI
+
 ## 最后的话
 请不要用操作系统的评价表来评价ToMart OS，ToMartOS并没有能力去替代正常的操作系统，它只是一个爱好，只是一个普通的游戏
 
