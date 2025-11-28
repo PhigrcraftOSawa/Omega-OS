@@ -1,7 +1,10 @@
-## Welcome To Omega OS 1!
+## Welcome To Omega OS!
+
+> [!CAUTION]
+> 本项目目前正在进行重置，并且Omega OS 1.X停止支持，有需要的可以到仓库的code文件夹获取1.X的源代码
 
 >[!Tip]
->非常感谢你使用Omega OS,如果想体验最新的功能，请前往[Omega OS Insider 用户聚集地](https://qm.qq.com/q/mX6uOoLvJm)
+>非常感谢你使用Omega OS,如果想体验最新的功能，请前往[Omega OS Insider  Community 预览用户聚集地①](https://qm.qq.com/q/mX6uOoLvJm)
 >
 >本项目的参考对象为[TechFure](https://github.com/KOSHINOawa/TechFure)，未来有可能会支持TechFure Application Script
 
@@ -11,7 +14,7 @@
 >[!Note]
 >由于本人为学生，所以更新频率不是很高，因此，不要对Omega OS有太大的期望
 ## 这是什么？
-由 @PhigrcraftOS(研发) 、 @_ KOSHINO _(UI) 和 @CarmYing(UI) 制作的伪系统
+由 @PhigrcraftOS(研发) 、 @_ KOSHINO _(UI)制作的伪系统
 
 (由于使用MarkDown格式，下划线中的字会变成斜体，故加空格)
 
