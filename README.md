@@ -1,18 +1,17 @@
 ## Welcome To Omega OS!
 
 > [!CAUTION]
-> 本项目目前正在进行重置，并且Omega OS 1.X停止支持，有需要的可以到仓库的code文件夹获取1.X的源代码
+> 本项目目前正在进行重置，并且，Omega OS 1.X停止支持，有需要的可以到仓库的code文件夹获取1.X的源代码
+>
+> 由于本人创作作品习惯及学业问题，这个项目更新非常慢，请不要对这个项目有太大的期望
 
 >[!Tip]
 >非常感谢你使用Omega OS,如果想体验最新的功能，请前往[Omega OS Insider  Community 预览用户聚集地①](https://qm.qq.com/q/mX6uOoLvJm)
 >
->本项目的参考对象为[TechFure](https://github.com/KOSHINOawa/TechFure)，未来有可能会支持TechFure Application Script
+>本项目的参考对象为[TechFure](https://github.com/KOSHINOawa/TechFure)，未来有可能会支持TechFure Application Script **（2025.12.13补充,第1条 :由于_KOSHINO_的个人问题，TechFure及TeFas停止更新，未来极大可能不会再提供兼容支持）**
 
 >[!Warning]
 >由于Alpha和Beta都是测试版本，很不稳定，所以请不要在其他重要用途上使用（谁会用Scratch办公？）
-
->[!Note]
->由于本人为学生，所以更新频率不是很高，因此，不要对Omega OS有太大的期望
 ## 这是什么？
 由 @PhigrcraftOS(研发) 、 @_ KOSHINO _(UI)制作的伪系统
 
@@ -32,8 +31,8 @@ Omega OS遵循GPL 3.0开源协议，这意味着
 * 你可以随意复制，使用，修改，分发Omega OS
 * 修改Omega OS后，如要重新分发，请必须使用GPL 3.0协议开源并标注修改内容
 ## 我们的计划
-* 支持TechFure Application Script
-* 开发OAC(Omega OS Application Code)
+* 支持TechFure Application Script **（2025.12.13补充,第2条:同同日期第1条补充）**
+* 开发OAC(Omega OS Application Code) **（2025.12.13补充,第3条:由于本人创作作品习惯及学业问题，未来极大可能放弃本计划）**
 * 统一UI
 
 ## 最后的话
