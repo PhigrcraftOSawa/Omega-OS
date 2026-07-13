@@ -8,7 +8,7 @@
 >[!Tip]
 >非常感谢你使用Omega OS,如果想体验最新的功能，请前往[Omega OS Insider  Community 预览用户聚集地①](https://qm.qq.com/q/mX6uOoLvJm)
 >
->本项目的参考对象为[TechFure](https://github.com/KOSHINOawa/TechFure)，未来有可能会支持TechFure Application Script **（2025.12.13补充,第1条 :由于_KOSHINO_的个人问题，TechFure及TeFas停止更新，未来极大可能不会再提供兼容支持）**
+>本项目的参考对象为[TechFure](https://github.com/KOSHINOawa/TechFure)，未来有可能会支持TechFure Application Script **（2026.7.13补充,第1条 :因为TechFure及TeFas停止更新，未来极大可能不会再提供兼容支持）**
 
 >[!Warning]
 >由于Alpha和Beta都是测试版本，很不稳定，所以请不要在其他重要用途上使用（谁会用Scratch办公？）
